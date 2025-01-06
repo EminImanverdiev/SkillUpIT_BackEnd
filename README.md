@@ -74,5 +74,5 @@ Layihə JWT ilə avtorizasiyanı dəstəkləyir. Rollar aşağıdakı kimidir:
 
 ## Əlaqə
 Əgər hər hansı sualınız və ya təklifiniz varsa, mənimlə əlaqə saxlaya bilərsiniz:
-- **E-poçt:** sizinmail@example.com  
+- **E-poçt:** emin.imanverdievv@gmail.com  
 - **GitHub:** https://github.com/EminImanverdiev/SkillUpIT_BackEnd.git
